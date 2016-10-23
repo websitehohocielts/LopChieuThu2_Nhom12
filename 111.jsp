@@ -487,7 +487,7 @@ img {
                             <table class="table">
                                 <tr>
                                     <td>
-                                        <span class="glyphicon glyphicon-book" style="color: brown"></span><a href="http://www.jquery2dotnet.com">Thể Bị Động Trong Ngữ Pháp IELS</a>
+                                        <span class="glyphicon glyphicon-book" style="color: brown"></span><a href="ielts.jsp">Thể Bị Động Trong Ngữ Pháp IELS</a>
                                     </td>
                                 </tr>
                                 <tr>
