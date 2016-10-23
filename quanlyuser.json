@@ -1,0 +1,55 @@
+﻿ [
+      {
+         "ten": "Trần Văn A",
+		  "linkbai": "#",
+		  "tuoi":"19",
+		"username":"tranvana196",
+		"mail":"tranvana@gmail.com"
+		
+     },
+     {
+         "ten": "Nguyễn Văn Cya",
+		  "linkbai": "#",
+		  "tuoi":"21",
+		"username":"Cya78",
+		"mail":"Cya145@gmail.com"
+
+     },
+     {
+         "ten": "Nguyễn Văn Tý",
+		  "linkbai": "#",
+		  "tuoi":"30",
+		"username":"TyNguyenAv123",
+		"mail":"nvty123@gmail.com"
+     },
+	{
+         "ten": "Trương Bá Thiên",
+		  "linkbai": "#",
+		  "tuoi":"17",
+		"username":"bathien113",
+		"mail":"bathien1133@gmail.com"
+     },
+	{
+         "ten": "Lưu Thái Hiển",
+		  "linkbai": "#",
+		  "tuoi":"16",
+		"username":"thaihien1122",
+		"mail":"thaihien1122@gmail.com"
+     },
+	{
+         "ten": "Phạm Tiểu Bái",
+		  "linkbai": "#",
+		  "tuoi":"19",
+		"username":"baibai123456",
+		"mail":"baibai123456@gmail.com"
+     },
+	{
+         "ten": "Lưu Thy Thy",
+		  "linkbai": "#",
+		  "tuoi":"22",
+		"username":"thythy123456",
+		"mail":"thythy123456@gmail.com"
+
+		
+     }
+ ]
